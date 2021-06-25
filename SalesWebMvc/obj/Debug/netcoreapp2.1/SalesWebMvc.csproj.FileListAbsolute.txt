@@ -38,3 +38,4 @@ D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcorea
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
