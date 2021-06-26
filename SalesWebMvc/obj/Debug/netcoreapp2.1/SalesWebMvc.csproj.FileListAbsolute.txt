@@ -43,3 +43,6 @@ D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcorea
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
