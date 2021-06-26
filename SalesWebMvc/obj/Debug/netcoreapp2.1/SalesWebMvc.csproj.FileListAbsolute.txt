@@ -1,3 +1,8 @@
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
@@ -7,11 +12,7 @@ D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcorea
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
@@ -24,6 +25,9 @@ D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcorea
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
@@ -42,7 +46,3 @@ D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcorea
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
-D:\cruza\Documents\Curso\Repos\System\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
